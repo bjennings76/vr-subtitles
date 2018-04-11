@@ -36,6 +36,7 @@
 desktop.ini
 Thumbs.db
 .DS_Store
+.p4ignore
 
 #Ignore SteamVR plugin (used for testing only)
 Assets/SteamVR.meta
